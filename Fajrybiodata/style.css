@@ -1,0 +1,53 @@
+div#header{
+    background-color:rgb(88, 88, 88) ;
+    min-height: 250px;
+    padding-block: 20px;
+}
+ 
+div#header a{
+    display: block;
+    width: 110px;
+    font-size: 18px;
+    color: black;
+    background-color: rgb(88, 88, 88);
+    padding: 8px 12px;
+    border-radius: 7px;
+    border: 2px solid black;
+    margin-inline: auto;
+    text-decoration: none;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#content p{
+    width: 47%;
+    display: inline-block;
+    color: rgb(3, 3, 3);
+}
+
+div#content a{
+    display: block;
+    width: 110px;
+    font-size: 18px;
+    color: black;
+    background-color: rgb(88, 88, 88);
+    padding: 8px 12px;
+    border-radius: 7px;
+    border: 2px solid black;
+    margin-inline: auto;
+    text-decoration: none;
+    text-align: center;
+}
+
+#header a:hover{
+    background-color: rgb(159, 159, 60);
+}
+
+div#kemampuan{
+    background-color:rgb(88, 88, 88) ;
+    min-height: 500px;
+    padding-block: 20px;
+}
